@@ -49,3 +49,4 @@ La aplicación se abrirá automáticamente en `http://localhost:8501`.
 
 ### 4. Ejecutar el Cuaderno de Análisis
 Puedes abrir el archivo `ai_models_and_api_pricing.ipynb` directamente en VS Code, Jupyter Lab o subirlo a Google Colab para reproducir los análisis y gráficos paso a paso.
+
