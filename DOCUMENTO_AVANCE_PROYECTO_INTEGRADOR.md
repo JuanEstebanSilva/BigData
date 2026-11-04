@@ -51,7 +51,8 @@ Se formularon cinco preguntas concretas, cuantificables y medibles:
 
 - **Nombre:** *AI Model Price History (2023–2026)*
 - **Fuente Oficial:** Seguimiento semanal de tarifas públicas de APIs recopiladas de Artificial Analysis y OpenRouter API Catalog.
-- **Enlace de Descarga:** [https://raw.githubusercontent.com/JuanEstebanSilva/BigData/main/ai_model_price_history.csv](https://raw.githubusercontent.com/JuanEstebanSilva/BigData/main/ai_model_price_history.csv)
+- **Enlace Oficial (Kaggle):** [https://www.kaggle.com/datasets/abirambharathisa/ai-models-and-api-pricing-2026-price-history?resource=download](https://www.kaggle.com/datasets/abirambharathisa/ai-models-and-api-pricing-2026-price-history?resource=download)
+- **Enlace de Descarga Directa (GitHub):** [https://raw.githubusercontent.com/JuanEstebanSilva/BigData/main/ai_model_price_history.csv](https://raw.githubusercontent.com/JuanEstebanSilva/BigData/main/ai_model_price_history.csv)
 - **Licencia:** *Open Data Commons Attribution License (ODC-By / CC BY 4.0)*.
 - **Fecha de Recopilación / Rango Temporal:** 157 semanas (18 de septiembre de 2023 a 28 de septiembre de 2026).
 - **Volumen Físico:** **167.787 registros**, **9 columnas**, **16,70 MB** en disco. Cumple plenamente con el requisito de Big Data (> 100.000 filas).
