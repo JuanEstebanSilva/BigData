@@ -11,6 +11,10 @@ env/
 # Jupyter
 .ipynb_checkpoints
 
+# Insumos
+INSUMOS/
+insumos/
+
 # OS
 Thumbs.db
 Desktop.ini

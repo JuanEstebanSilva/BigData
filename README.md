@@ -35,7 +35,7 @@ Se recomienda contar con Python 3.10 o superior instalado.
 Instala los paquetes necesarios ejecutando en la terminal:
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly streamlit scikit-learn
+pip install -r requirements.txt
 ```
 
 ### 3. Ejecutar el Dashboard en Streamlit
