@@ -15,19 +15,11 @@ El proyecto aborda la problemática de la opacidad y volatilidad en las tarifas 
 
 ## Estructura del Repositorio
 
-- `ai-models-and-api-pricing-2026-price-history/`: Carpeta con los conjuntos de datos en formato CSV y su respectiva licencia de uso.
-  - `ai_model_price_history.csv`: Histórico semanal de precios por millón de tokens (167.787 filas).
-  - `ai_models_2026.csv`: Catálogo de 4.403 modelos con especificaciones técnicas y capacidades multimodales.
-  - `LICENSE_LiteLLM_source_data.txt`: Licencia de origen de los datos.
-- `ai_models_limpio.csv.gz`: Conjunto de datos limpio y comprimido para el dashboard de Streamlit.
-- `ai_models_limpio.csv`: Conjunto de datos limpio completo.
-- `ai_models_powerbi_liviano.csv`: Conjunto de datos optimizado (12,7 MB) para importación ágil en Power BI Desktop.
-- `ai_models_and_api_pricing.ipynb`: Cuaderno principal con el ciclo de vida del dato: carga, análisis exploratorio (EDA), limpieza, ingeniería de variables y modelos predictivos (Regresión Lineal y Random Forest).
-- `app.py`: Aplicación web interactiva desarrollada en Streamlit con KPIs, pestañas de análisis, matrices de correlación interactiva (Pearson/Spearman), comparativas multicloud y calculadora de costos.
-- `proyecto_integrador_BigData.docx`: Documento formal de avance estructurado bajo Normas APA 7.ª edición.
-- `tablero_precios_ia.pbix`: Tablero gerencial interactivo de Power BI estructurado bajo lineamientos ejecutivos y de arbitraje multicloud.
-- `captura_powerbi.png`: Captura de pantalla oficial del tablero ejecutivo en Power BI.
-- `prototipo_dashboard_streamlit.png`: Captura y boceto visual del diseño del dashboard de Streamlit.
+- `ai_models_and_api_pricing.ipynb`: Cuaderno principal con el ciclo de vida del dato: carga, análisis exploratorio (EDA), limpieza, ingeniería de variables, modelos predictivos y conclusiones.
+- `app.py`: Aplicación web interactiva desarrollada en Streamlit con KPIs, matriz de correlación, análisis por proveedor/modalidad y tramos de variables.
+- `requirements.txt`: Lista de dependencias mínimas requeridas para reproducir el entorno.
+- `ai_models_limpio.csv.gz`: Conjunto de datos limpio y comprimido para el consumo eficiente de la aplicación web.
+- `tablero_precios_ia.pbix`: Tablero gerencial interactivo desarrollado en Power BI Desktop con medidas DAX y segmentación dinámica.
 
 ---
 
@@ -56,4 +48,3 @@ La aplicación se abrirá automáticamente en `http://localhost:8501`.
 
 ### 4. Ejecutar el Cuaderno de Análisis
 Puedes abrir el archivo `ai_models_and_api_pricing.ipynb` directamente en VS Code, Jupyter Lab o subirlo a Google Colab para reproducir los análisis y gráficos paso a paso.
-
