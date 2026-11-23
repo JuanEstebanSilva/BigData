@@ -25,7 +25,9 @@ El proyecto aborda la problemática de la opacidad y volatilidad en las tarifas 
 - `ai_models_and_api_pricing.ipynb`: Cuaderno principal con el ciclo de vida del dato: carga, análisis exploratorio (EDA), limpieza, ingeniería de variables y modelos predictivos (Regresión Lineal y Random Forest).
 - `app.py`: Aplicación web interactiva desarrollada en Streamlit con KPIs, pestañas de análisis, matrices de correlación interactiva (Pearson/Spearman), comparativas multicloud y calculadora de costos.
 - `proyecto_integrador_BigData.docx`: Documento formal de avance estructurado bajo Normas APA 7.ª edición.
-- `prototipo_dashboard_streamlit.png`: Captura y boceto visual del diseño del dashboard.
+- `tablero_precios_ia.pbix`: Tablero gerencial interactivo de Power BI estructurado bajo lineamientos ejecutivos y de arbitraje multicloud.
+- `captura_powerbi.png`: Captura de pantalla oficial del tablero ejecutivo en Power BI.
+- `prototipo_dashboard_streamlit.png`: Captura y boceto visual del diseño del dashboard de Streamlit.
 
 ---
 
