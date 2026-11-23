@@ -41,8 +41,10 @@ Instala los paquetes necesarios ejecutando en la terminal:
 pip install -r requirements.txt
 ```
 
-### 3. Ejecutar el Dashboard en Streamlit
-Para iniciar la aplicación web interactiva en tu navegador:
+### 3. Ejecutar o Acceder al Dashboard en Streamlit
+- **Aplicación pública desplegada en la nube:** [https://precios-ia-usta.streamlit.app](https://precios-ia-usta.streamlit.app)
+
+Para iniciar la aplicación web interactiva en tu navegador de forma local:
 
 ```bash
 python -m streamlit run app.py
