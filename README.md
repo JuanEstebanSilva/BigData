@@ -20,7 +20,8 @@ El proyecto aborda la problemática de la opacidad y volatilidad en las tarifas 
   - `ai_models_2026.csv`: Catálogo de 4.403 modelos con especificaciones técnicas y capacidades multimodales.
   - `LICENSE_LiteLLM_source_data.txt`: Licencia de origen de los datos.
 - `ai_models_limpio.csv.gz`: Conjunto de datos limpio y comprimido para el dashboard de Streamlit.
-- `ai_models_limpio.csv`: Conjunto de datos limpio para autoservicio e importación en Power BI Desktop.
+- `ai_models_limpio.csv`: Conjunto de datos limpio completo.
+- `ai_models_powerbi_liviano.csv`: Conjunto de datos optimizado (12,7 MB) para importación ágil en Power BI Desktop.
 - `ai_models_and_api_pricing.ipynb`: Cuaderno principal con el ciclo de vida del dato: carga, análisis exploratorio (EDA), limpieza, ingeniería de variables y modelos predictivos (Regresión Lineal y Random Forest).
 - `app.py`: Aplicación web interactiva desarrollada en Streamlit con KPIs, pestañas de análisis, matrices de correlación interactiva (Pearson/Spearman), comparativas multicloud y calculadora de costos.
 - `proyecto_integrador_BigData.docx`: Documento formal de avance estructurado bajo Normas APA 7.ª edición.
